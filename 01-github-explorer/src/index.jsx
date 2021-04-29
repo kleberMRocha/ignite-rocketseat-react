@@ -1,6 +1,5 @@
-import react from 'react';
+import React from 'react';
+import {render} from 'react-dom';
 import {App} from './App';
 
-const BomDia = () => {
-    return <h1>Bom dia !</h1>
-}
+render(<App />, document.getElementById('root'));
