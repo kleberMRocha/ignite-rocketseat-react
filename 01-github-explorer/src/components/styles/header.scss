@@ -1,0 +1,19 @@
+
+.header-main{
+    background-color: #fdfdfd;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1% 5%;
+    border-bottom: solid  3px #a256d8;
+
+    img{
+        max-width: 150px;
+
+    }
+    h1{
+        color: #a256d8;
+
+    }
+}

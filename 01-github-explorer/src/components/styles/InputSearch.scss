@@ -1,0 +1,19 @@
+.search-container{
+    margin: 16px auto;
+    background:#fdfdfd;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    border-radius: 16px;
+
+    img{
+        margin: 5px;
+    }
+
+    input{
+        width: 70%;
+        outline: none;
+        border: none;
+    }
+}
